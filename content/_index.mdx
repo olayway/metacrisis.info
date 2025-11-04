@@ -1,84 +1,121 @@
 ---
 title: The Metacrisis
-# This tells Flowershow to use the special homepage layout,
-# not a standard blog post layout.
 template: "homepage"
 ---
 
-<Hero
-  title="The Metacrisis"
-  description="A convergent web of interconnected crises—environmental, social, and psychological—demanding a fundamental redesign of our civilizations."
-  cta="Download the White Paper →"
-  ctaLink="/white-paper"
-/>
+<!-- 
+MODULE 1: HERO
+Recreated using standard HTML and Tailwind classes.
+-->
+<div className="w-full text-center py-24 md:py-32 lg:py-40 bg-gray-100 dark:bg-gray-900">
+  <h1 className="text-4xl md:text-6xl font-bold mb-4">
+    The Metacrisis
+  </h1>
+  <p className="text-lg md:text-xl max-w-3xl mx-auto text-gray-700 dark:text-gray-300 mb-8 px-4">
+    A convergent web of interconnected crises—environmental, social, and psychological—demanding a fundamental redesign of our civilizations.
+  </p>
+  <a
+    href="/white-paper"
+    className="inline-block bg-blue-600 text-white font-bold text-lg px-8 py-3 rounded-lg shadow-md hover:bg-blue-700 transition-colors"
+  >
+    Download the White Paper →
+  </a>
+</div>
 
-<FeatureSection
-  title="Understanding the Concept"
-  className="bg-gray-50 dark:bg-gray-900"
->
-
-  The Metacrisis is not just another crisis. It is the underlying, systemic dysfunction
-  that connects climate change, political polarization, mental health epidemics,
-  and economic instability. It's a failure in our collective sense-making,
-  our values, and our institutions to adequately perceive and respond to
-  the complexity of the challenges we have created.
-
-  Understanding it is the first step toward developing the new frameworks
-  and inner capacities required for a regenerative future.
-
-  [Explore the full concept →](/concept)
-
-</FeatureSection>
-
-<FeatureSection title="Explore the Resource Hub">
-
-  <div className="mb-4 text-lg">
-    Go deeper with a curated library of the most important articles,
-    podcasts, and videos on the metacrisis.
-  </div>
-
-  <div className="grid grid-cols-1 md:grid-cols-3 gap-4 p-4 border rounded-lg bg-white dark:bg-gray-800">
-    <div className="p-4 border rounded-lg">
-      <span className="text-sm font-semibold text-blue-600">Article</span>
-      <h3 className="font-bold text-lg">Example Article Title</h3>
-      <p className="text-sm">A short summary of the resource...</p>
+<!-- 
+MODULE 2: THE CONCEPT (THE "WIKI")
+-->
+<div className="py-16 md:py-24 bg-white dark:bg-gray-950">
+  <div className="max-w-4xl mx-auto px-4">
+    <h2 className="text-3xl font-bold text-center mb-8">
+      Understanding the Concept
+    </h2>
+    <div className="prose dark:prose-invert max-w-none text-lg">
+      <p>
+        The Metacrisis is not just another crisis. It is the underlying, systemic dysfunction
+        that connects climate change, political polarization, mental health epidemics,
+        and economic instability. It's a failure in our collective sense-making,
+        our values, and our institutions to adequately perceive and respond to
+        the complexity of the challenges we have created.
+      </p>
+      <p>
+        Understanding it is the first step toward developing the new frameworks
+        and inner capacities required for a regenerative future.
+      </p>
+      <p className="text-center mt-8">
+        <a
+          href="/concept"
+          className="text-blue-600 font-semibold text-lg hover:underline"
+        >
+          Explore the full concept →
+        </a>
+      </p>
     </div>
-    <div className="p-4 border rounded-lg">
-      <span className="text-sm font-semibold text-green-600">Podcast</span>
-      <h3 className="font-bold text-lg">Example Podcast Title</h3>
-      <p className="text-sm">A short summary of the resource...</p>
+  </div>
+</div>
+
+<!-- 
+MODULE 3: THE "LEARN MORE" HUB
+-->
+<div className="py-16 md:py-24 bg-gray-50 dark:bg-gray-900">
+  <div className="max-w-6xl mx-auto px-4">
+    <h2 className="text-3xl font-bold text-center mb-4">
+      Explore the Resource Hub
+    </h2>
+    <p className="text-lg text-center text-gray-700 dark:text-gray-300 mb-12">
+      Go deeper with a curated library of the most important articles,
+      podcasts, and videos on the metacrisis.
+    </p>
+
+{/* This is the Placeholder Grid. */}
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="p-6 border rounded-lg bg-white dark:bg-gray-800 shadow-sm">
+        <span className="text-sm font-semibold text-blue-600">Article</span>
+        <h3 className="font-bold text-lg mt-2">Example Article Title</h3>
+        <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">A short summary of the resource...</p>
+      </div>
+      <div className="p-6 border rounded-lg bg-white dark:bg-gray-800 shadow-sm">
+        <span className="text-sm font-semibold text-green-600">Podcast</span>
+        <h3 className="font-bold text-lg mt-2">Example Podcast Title</h3>
+        <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">A short summary of the resource...</p>
+      </div>
+      <div className="p-6 border rounded-lg bg-white dark:bg-gray-800 shadow-sm">
+        <span className="text-sm font-semibold text-red-600">Video</span>
+        <h3 className="font-bold text-lg mt-2">Example Video Title</h3>
+        <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">A short summary of the resource...</p>
+      </div>
     </div>
-    <div className="p-4 border rounded-lg">
-      <span className="text-sm font-semibold text-red-600">Video</span>
-      <h3 className="font-bold text-lg">Example Video Title</h3>
-      <p className="text-sm">A short summary of the resource...</p>
+
+<div className="text-center mt-12">
+      <a href="/resources" className="text-blue-600 font-semibold text-lg hover:underline">
+        See all resources in the hub →
+      </a>
     </div>
   </div>
+</div>
 
-  <div className="mt-6">
-    [See all resources in the hub →](/resources)
+<!-- 
+MODULE 4: RELATED LIFE ITSELF RESOURCES
+-->
+<div className="py-16 md:py-24 bg-white dark:bg-gray-950">
+  <div className="max-w-4xl mx-auto px-4 text-center">
+    <h2 className="text-3xl font-bold text-center mb-8">
+      More from Life Itself
+    </h2>
+    <p className="text-lg text-gray-700 dark:text-gray-300 mb-8">
+      The Metacrisis Hub is a project by Life Itself. Explore our
+      other initiatives and join the community.
+    </p>
+    <div className="flex justify-center gap-6 md:gap-10">
+      <a href="https://lifeitself.org/" className="font-semibold text-blue-600 hover:underline">
+        Life Itself &rarr;
+      </a>
+      <a href="https://secondrenaissance.net/" className="font-semibold text-blue-600 hover:underline">
+        Second Renaissance &rarr;
+      </a>
+      <a href="https://lifeitself.org/community" className="font-semibold text-blue-600 hover:underline">
+        Join the Community &rarr;
+      </a>
+    </div>
   </div>
-
-</FeatureSection>
-
-<FeatureSection
-  title="More from Life Itself"
-  className="bg-gray-50 dark:bg-gray-900"
->
-
-  The Metacrisis Hub is a project by Life Itself. Explore our
-  other initiatives and join the community.
-
-  <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
-    <a href="https://lifeitself.org/" className="font-semibold text-blue-600">
-      Life Itself &rarr;
-    </a>
-    <a href="https://secondrenaissance.net/" className="font-semibold text-blue-600">
-      Second Renaissance &rarr;
-    </a>
-    <a href="https://lifeitself.org/community" className="font-semibold text-blue-600">
-      Join the Community &rarr;
-    </a>
-  </div>
-
-</FeatureSection>
+</div>

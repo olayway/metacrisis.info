@@ -1,6 +1,6 @@
-# Metacrisis.net
+# Metacrisis.info
 
-Welcome to the home for metacrisis.net! This is an ongoing effort to educate, inform, and ultimately act on the deepest roots of suffering.
+Welcome to the home for metacrisis.info! This is an ongoing effort to educate, inform, and ultimately act on the deepest roots of suffering.
 
 This site will be half landing page for the metacrisis, white paper, half dictionary, wiki definition, and more.
 

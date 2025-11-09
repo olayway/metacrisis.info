@@ -1,4 +1,42 @@
 {
-  "showSidebar": true
-  "homepage": "content/_index.mdx"
+  "title": "Metacrisis",
+  "favicon": "/assets/ds-logo.png",
+  "author": "Life Itself, Commonweal, Ekskaret",
+  "authorLogo": "https://lifeitself.org/assets/site/life-itself-logo.svg",
+  "authorUrl": "https://lifeitself.org/",
+  "analytics": "G-CN5D9D57PC",
+  "nav": {
+    "logo": "/assets/ds-logo.png",
+    "title": "Metacrisis",
+    "links": [
+      {
+        "href": "/paper",
+        "name": "White paper"
+      },
+      {
+        "href": "/manifesto",
+        "name": "Manifesto"
+      },
+      {
+        "href": "/examples",
+        "name": "Examples"
+      },
+      {
+        "href": "/resources",
+        "name": "Resources"
+      },
+     {
+        "href": "/network",
+        "name": "Network"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      },
+      {
+        "href": "https://developmentalspaces.substack.com",
+        "name": "News"
+      }
+    ]
+  }
 }

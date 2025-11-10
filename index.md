@@ -1,6 +1,6 @@
 ---
-title: The anatomy of Metacrisis
-description: "Locating the roots of global crises in the foundations of modern culture"
+title: Metacrisis
+description: "A crisis in the dominant cultural paradigm: a multi-systemic breakdown rooted in the deep worldviews, values and assumptions that reciprocally shape modern civilization."
 showHero: true
 showToc: false
 showSidebar: false
@@ -10,8 +10,6 @@ cta:
   - href: /paper
     label: Read a summary
 ---
-
-&nbsp;
 
 # The anatomy of Metacrisis  
 Locating the roots of global crises in the foundations of modern culture

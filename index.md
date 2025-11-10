@@ -19,7 +19,8 @@ Locating the roots of global crises in the foundations of modern culture
 **Metacrisis:**   
 *A crisis in the dominant cultural paradigm: a multi-systemic breakdown rooted in the deep worldviews, values and assumptions that reciprocally shape modern civilization.*
 
-Read the white paper  
+Read the white paper
+[Read the white paper →](/paper)
 *A new white paper offers a basic on-ramp to the language of metacrisis: what it is, how it relates to polycrisis, and why it matters.* 
 
 **In short**

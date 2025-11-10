@@ -1,5 +1,5 @@
 ---
-title: "Metacrisis: xyz"
+title: "Metacrisis White Paper"
 ---
 
 We’re happy to announce the release of a draft version of a new white paper: “From Polycrisis to Metacrisis: a short introduction”.

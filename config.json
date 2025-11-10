@@ -11,23 +11,15 @@
     "links": [
       {
         "href": "/paper",
-        "name": "White paper"
-      },
-      {
-        "href": "/examples",
-        "name": "Examples"
-      },
-      {
-        "href": "/resources",
-        "name": "Resources"
+        "name": "Paper"
       },
       {
         "href": "/about",
         "name": "About"
       },
       {
-        "href": "https://lexicon.secondrenaissance.net/Metacrisis",
-        "name": "News"
+        "href": "https://secondrenaissance.net/",
+        "name": "Second Renaissance"
       }
     ]
   }

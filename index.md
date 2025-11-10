@@ -1,6 +1,6 @@
 ---
-title: Metacrisis
-description: "A metacrisis is a crisis at the foundations of a civilization, arising from its core views and values – its basic, dominant worldview or “cultural paradigm”."
+title: The anatomy of Metacrisis
+description: "Locating the roots of global crises in the foundations of modern culture"
 showHero: true
 showToc: false
 showSidebar: false

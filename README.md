@@ -12,3 +12,10 @@ The current Lexicon definition of the metacrisis [https://lexicon.secondrenaissa
 
 For more information about Flowershow and how to customize this template, visit:
 - [Flowershow Documentation](https://flowershow.app/docs)
+
+_______________________________________________________________________________________________________
+
+Issues
+- [Updates from Max re metacrisis.info](https://github.com/life-itself/metacrisis.info/issues/1)
+
+_______________________________________________________________________________________________________

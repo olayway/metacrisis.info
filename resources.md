@@ -25,7 +25,8 @@ title: "Resources"
 
 ## Books
 
-*Ken Wilber / **Sex, Ecology, Spirituality: The Spirit of Evolution***. 
+*Ken Wilber / **Sex, Ecology, Spirituality: The Spirit of Evolution***.
+ 
 *Tomas Bjorkman / **The World We Create***  
 *Iain McGilchrist / **The Master and His Emissary***  
 *Vanessa Machado de Oliveira / **Hospicing Modernity***

@@ -25,13 +25,13 @@ title: "Resources"
 
 ## Books
 
-*Ken Wilber / **Sex, Ecology, Spirituality: The Spirit of Evolution*****.**  
+*Ken Wilber / **Sex, Ecology, Spirituality: The Spirit of Evolution***. 
 *Tomas Bjorkman / **The World We Create***  
 *Iain McGilchrist / **The Master and His Emissary***  
 *Vanessa Machado de Oliveira / **Hospicing Modernity***
 
 ## Advanced texts
-  
+
 *Iain McGilchrist /  **The Matter with Things: Our Brains, Our Delusions, and the Unmaking of the World (2021)***  
 *Jonathan Rowson, Layman Pascal, Zak Stein, Bonnitta Roy, Daniel Gortz (Hanzi Freinacht), Lene Rachel Andersen, Sarah Stein Lubrano, Minna Salami, John Vervaeke, Christopher Mastropietro, Tom Murray, Mark Vernon, Jonathan Jong, Siva Thambisetty, Brent Cooper / **Dispatches from a Time Between Worlds: Crisis and Emergence in Metamodernity.***
 

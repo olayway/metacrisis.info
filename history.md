@@ -55,8 +55,6 @@ Initially: *“What is called the metacrisis is, in truth, an educational crisis
 
 Key figure in popularising metacrisis as a term. Frames metacrisis through **generator functions**: Rivalrous economic/game-theoretic incentive structures (multipolar traps), exponential technological power, fragile complicated systems dependent on complex living systems, polluted information ecology. **Emphasis on existential risk and coordination failure.** 
 
----
-
 **Throughout this period, authors including Tomas Bjorkman, Indra Adnan, Iain McGilchrist, Vanessa Machado de Oliveira, Jeremy Lent, John Vervaeke and many more are developing related themes and critiques (identifying cultural/spiritual roots of widespread crisis) without necessarily using the term metacrisis or the framing represented here.**
 
 # Popularisation (2017–2020)

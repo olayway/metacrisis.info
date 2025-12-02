@@ -18,6 +18,10 @@
         "name": "About"
       },
       {
+        "href": "/resources",
+        "name": "Resources"
+      },
+      {
         "href": "https://secondrenaissance.net/",
         "name": "Second Renaissance"
       }

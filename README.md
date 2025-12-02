@@ -1,21 +1,14 @@
-# Metacrisis.info
+# Metacrisis.info: Introduction to the Metacrisis 🌗
 
-Welcome to the home for metacrisis.info! This is an ongoing effort to educate, inform, and ultimately act on the deepest roots of suffering.
+Welcome to the repo for metacrisis.info! This is an ongoing effort to educate, inform, and ultimately act on the deepest roots of our current crises.
 
-This site will be half landing page for the metacrisis, white paper, half dictionary, wiki definition, and more.
+This site will be an introduction and definition and a landing page for the full metacrisis white paper (from polycrisis to metacrisis).
 
-Placeholder site: [https://my.flowershow.app/@kanderson102/metacrisis.net/content/_].
+https://metacrisis.info/ 
 
-The current Lexicon definition of the metacrisis [https://lexicon.secondrenaissance.net/Metacrisis].
+The previous Lexicon definition of the metacrisis can be found here: https://lexicon.secondrenaissance.net/Metacrisis
 
 ### Made with Flowershow  🌸
 
 For more information about Flowershow and how to customize this template, visit:
 - [Flowershow Documentation](https://flowershow.app/docs)
-
-_______________________________________________________________________________________________________
-
-Issues
-- [Updates from Max re metacrisis.info](https://github.com/life-itself/metacrisis.info/issues/1)
-
-_______________________________________________________________________________________________________

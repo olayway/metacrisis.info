@@ -105,14 +105,14 @@ Meaning, moral guidance and legitimacy are located in the human, not the divine,
 
 ## Defining metacrisis: prominent voices 
 
->“The metacrisis is the historically specific threat to truth, beauty, and goodness >caused by our persistent misunderstanding, misvaluing, and misappropriating of >reality. The metacrisis is the crisis within and between all the world’s major crises, >a root cause that is at once singular and plural, a multi-faceted delusion arising >from the spiritual and material exhaustion of modernity that permeates the world’s >interrelated challenges and manifests institutionally and culturally to the detriment >of life on earth.”
+>“The metacrisis is the historically specific threat to truth, beauty, and goodness caused by our persistent misunderstanding, misvaluing, and misappropriating of reality. The metacrisis is the crisis within and between all the world’s major crises, a root cause that is at once singular and plural, a multi-faceted delusion arising from the spiritual and material exhaustion of modernity that permeates the world’s interrelated challenges and manifests institutionally and culturally to the detriment of life on earth.”
  – Jonathan Rowson
 
 
 >“The metacrisis is a complex, multifaceted gestalt or “laminated system.”
->“...the complex unity or concatenated nature of our twenty-first century planetary >crises, due to their systemic nature and overlapping root causes.”
+“...the complex unity or concatenated nature of our twenty-first century planetary crises, due to their systemic nature and overlapping root causes.”
 – Nicholas Hedlund
 
 
->“The metacrisis... has to do with how humans understand themselves and the world... >systems and societies are in trouble, but it is the psyche that is in the direst of >straits.
+>“The metacrisis... has to do with how humans understand themselves and the world... systems and societies are in trouble, but it is the psyche that is in the direst of straits.
 – Zak Stein

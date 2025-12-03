@@ -42,14 +42,11 @@ layout: plain
   <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-eclipse-dark"></div>
   <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">
   <div class="inline-block mb-6 px-3 py-1 border border-amber-500/30 rounded-full bg-black/40 backdrop-blur-sm">
-  <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">Concept Introduction</span>
+  <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">An Introduction</span>
   </div>
   <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
-  The <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
+    <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
   </h1>
-  <p class="font-display italic text-2xl md:text-3xl text-stone-300 mb-10 font-light">
-  Defining the root crisis of civilization.
-  </p>
   <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 font-serif mb-12 space-y-4">
   <p>
       In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.

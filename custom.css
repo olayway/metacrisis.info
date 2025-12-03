@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-:root {
-  --eclipse-dark: #0c0a09;     /* stone-950 */
-  --eclipse-panel: #1c1917;    /* stone-900 */
-  --gold-dim: #b45309;
-  --gold-light: #fbbf24;
-  /* --color-stone-200: oklch(92.3% 0.003 48.717); */
-}
-
-/* BEGIN STANDARD FLOWERSHOW THEME CUSTOM */
-
 *,:after,:before {
     --tw-border-spacing-x: 0;
     --tw-border-spacing-y: 0;
@@ -550,16 +540,14 @@ select {
     --color-l-background: #fff;
     --color-l-foreground: #525252;
     --color-l-accent: #232323;
-    --color-d-background: var(--eclipse-dark); /* CHANGED */
-    --color-d-foreground: var(--color-stone-200); /* CHANGED */
+    --color-d-background: #0c0a09;
+    --color-d-foreground: #d6d3d1;
     --color-d-accent: #232323;
 }
 
 :root,:root[data-theme=light] {
-    /* --color-foreground: var(--color-l-foreground); */
-    --color-foreground: var(--color-d-foreground);
-    /* --color-background: var(--color-l-background); */
-    --color-background: var(--color-d-background);
+    --color-foreground: var(--color-l-foreground);
+    --color-background: var(--color-l-background);
     --color-accent: var(--color-l-accent);
     --color-foreground-50: oklch(from var(--color-foreground) 0.9 c h);
     --color-foreground-100: oklch(from var(--color-foreground) 0.825 c h);

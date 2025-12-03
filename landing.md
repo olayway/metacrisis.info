@@ -1,6 +1,7 @@
 ---
 title: Metacrisis - an Introduction
 description: "In an era defined by global catastrophic risk, polycrisis describes a collection of escalating crises and their complex interactions. Metacrisis points to the common, foundational conditions that generate and sustain these crises.This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters. The emphasis is on clarity and rigor rather than drama: presenting the key ideas in a calm, factual way."
+layout: plain
 ---
 
 <style>
@@ -11,7 +12,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
         -webkit-backdrop-filter: blur(12px);
         border: 1px solid rgba(251, 191, 36, 0.1);
     }
-    
     .hero-bg {
         background-image: url('https://images.unsplash.com/photo-1532978873245-f938d6418386?q=80&w=2070&auto=format&fit=crop'); 
         /* Alternate darker image option: https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=2074&auto=format&fit=crop */
@@ -19,11 +19,9 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
         background-position: center;
         background-attachment: fixed; /* Parallax effect */
     }
-
     .text-glow {
         text-shadow: 0 0 30px rgba(251, 191, 36, 0.15);
     }
-
     /* Share button hover effect */
     .share-btn:hover {
         color: #b45309;
@@ -42,20 +40,16 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
 <header class="relative w-full min-h-screen flex items-center justify-center hero-bg overflow-hidden py-20">
     <!-- Dark Overlay -->
     <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-eclipse-dark"></div>
-    
     <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">
         <div class="inline-block mb-6 px-3 py-1 border border-amber-500/30 rounded-full bg-black/40 backdrop-blur-sm">
             <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">Concept Introduction</span>
         </div>
-        
         <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
             The <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
         </h1>
-        
         <p class="font-display italic text-2xl md:text-3xl text-stone-300 mb-10 font-light">
             Defining the root crisis of civilization.
         </p>
-
         <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 font-serif mb-12 space-y-4">
             <p>
                 In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.
@@ -67,7 +61,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                 This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters.
             </p>
         </div>
-        
         <!-- Hero Buttons -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-full bg-stone-200 text-stone-900 font-sans font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
@@ -77,12 +70,10 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                 Read the paper
             </a>
         </div>
-
         <div class="mt-16 animate-bounce opacity-50">
             <svg class="w-6 h-6 mx-auto text-stone-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
         </div>
     </div>
-
     <!-- Footer Text (Absolute Positioned at Bottom) -->
     <div class="absolute bottom-6 w-full text-center z-20 px-4">
         <p class="text-[10px] md:text-xs text-stone-500 font-sans uppercase tracking-widest opacity-60">
@@ -123,12 +114,10 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
 <!-- III. Diagnosis Section (Dark Stone Background) -->
 <section class="py-24 bg-stone-900 border-t border-white/5">
     <div class="max-w-6xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-        
         <!-- Content -->
         <div class="space-y-6">
             <h2 class="font-display text-4xl md:text-5xl font-bold text-white mb-6">Diagnosis First</h2>
-            <h3 class="font-sans text-lg text-amber-500 tracking-wide uppercase font-semibold">Why treating symptoms is not enough</h3>
-            
+            <h3 class="font-sans text-lg text-amber-500 tracking-wide uppercase font-semibold">Why treating symptoms is not enough</h3>  
             <div class="prose prose-lg prose-invert text-stone-300 font-serif leading-loose">
                 <p>
                     Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
@@ -147,17 +136,14 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                 </a>
             </div>
         </div>
-
         <!-- Graphic / At a Glance Card -->
         <div class="relative fade-in-up delay-200">
             <div class="absolute inset-0 bg-amber-600/10 blur-3xl rounded-full"></div>
-            
             <!-- At a glance card -->
             <div class="relative bg-black/40 border border-stone-800 rounded-2xl p-6 sm:p-8 shadow-2xl backdrop-blur-sm">
                 <h2 class="font-display text-lg sm:text-xl font-bold text-white mb-6 border-b border-stone-800 pb-4">
                     Polycrisis and Metacrisis <span class="text-stone-500 italic font-normal block sm:inline">at a glance</span>
                 </h2>
-                
                 <div class="space-y-4 text-sm">
                     <!-- Item 1 -->
                     <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
@@ -168,7 +154,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                             Entanglement of multiple, escalating crises and their cascading interactions.
                         </p>
                     </div>
-                    
                     <!-- Item 2 -->
                     <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
                         <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
@@ -178,7 +163,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                             Multi-systemic breakdown emerging from the foundational views, values, and institutional logics of modern culture.
                         </p>
                     </div>
-                    
                     <!-- Item 3 -->
                     <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
                         <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
@@ -198,7 +182,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
 <section class="py-24 bg-eclipse-dark relative overflow-hidden">
     <!-- Background decoration -->
     <div class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-stone-900/50 to-transparent pointer-events-none"></div>
-
     <div class="max-w-6xl mx-auto px-6 relative z-10">
         <div class="max-w-3xl mb-16">
             <h2 class="font-display text-4xl md:text-5xl font-bold text-white mb-6">The Roots of Illness</h2>
@@ -206,7 +189,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                 Viewed through a <span class="italic text-stone-200">polycrisis</span> lens, climate breakdown is a logistical challenge. Viewed through <span class="italic text-stone-200">metacrisis</span>, it is a symptom of how we see the world.
             </p>
         </div>
-
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <!-- Card 1 -->
             <div class="p-8 rounded-xl bg-stone-900/50 border border-stone-800 hover:border-amber-700/50 transition-colors group">
@@ -216,7 +198,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                     A view that the world is just a complicated machine. This leads to a disenchanted relationship with nature and the mistreatment of complex living systems.
                 </p>
             </div>
-
             <!-- Card 2 -->
             <div class="p-8 rounded-xl bg-stone-900/50 border border-stone-800 hover:border-amber-700/50 transition-colors group">
                 <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold font-display border border-stone-700">2</div>
@@ -225,7 +206,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                     A worldview that casts individuals and nations as rivals for power, driving global coordination failure and legitimising extraction.
                 </p>
             </div>
-
             <!-- Card 3 -->
             <div class="p-8 rounded-xl bg-stone-900/50 border border-stone-800 hover:border-amber-700/50 transition-colors group">
                 <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold font-display border border-stone-700">3</div>
@@ -234,7 +214,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                     Positions humanity alone at the top of a pyramid of power, erasing the truth that harming nature is harming ourselves.
                 </p>
             </div>
-
             <!-- Card 4 -->
             <div class="p-8 rounded-xl bg-stone-900/50 border border-stone-800 hover:border-amber-700/50 transition-colors group">
                 <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold font-display border border-stone-700">4</div>
@@ -250,7 +229,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
 <!-- V. Cultural Paradigm Section (Dark Stone + Texture) -->
 <section class="py-24 bg-stone-900 border-t border-stone-800">
     <div class="max-w-6xl mx-auto px-6">
-        
         <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 mb-16">
             <!-- Section Header -->
             <div class="lg:col-span-1">
@@ -263,10 +241,8 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                     Read White Paper
                 </a>
             </div>
-
             <!-- Ideology Grid (Full Content, Dark Theme) -->
             <div class="lg:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4">
-                
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Rationalism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -274,7 +250,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         All that exists is physical matter, governed by natural laws. Human reason can reveal universal truths about this external world.
                     </p>
                 </div>
-
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Materialism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -282,7 +257,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         The universe is a vast machine. The living world is nothing more than the sum of small separate parts.
                     </p>
                 </div>
-
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Progress-ism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -290,7 +264,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         History is a project of continuous improvement, legitimising extraction, industrialisation, and dominance over nature.
                     </p>
                 </div>
-
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Individualism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -298,7 +271,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         The rational individual is the foundation of truth. Self-interest and competition are natural organising forces.
                     </p>
                 </div>
-
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Equality-ism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -306,7 +278,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         All humans are created equal—giving rise to the idea of human rights, though realised imperfectly across empire.
                     </p>
                 </div>
-
                 <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
                     <h4 class="font-bold text-stone-200 mb-2 text-lg">Secular-ism</h4>
                     <p class="text-sm text-stone-400 leading-relaxed">
@@ -314,10 +285,8 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                         Meaning is located in the human, not the divine. The idea of a living cosmos gives way to a world of inert matter.
                     </p>
                 </div>
-
             </div>
         </div>
-
         <!-- Other Voices (Dark Theme) -->
             <div class="border-t border-stone-800 pt-16 mt-16">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -335,7 +304,6 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                     <p>
                         But, McGilchrist warns, this view by itself is fatally deficient. It produces destruction in a world that is truly complex, dynamic and relational—a reality more faithfully represented by the right hemisphere.
                     </p>
-                    
                     <div class="mt-8 flex gap-4 not-prose">
                         <a href="#resources" class="inline-flex items-center px-6 py-3 border border-stone-700 text-sm font-bold text-stone-300 rounded hover:bg-stone-800 hover:border-amber-500 transition-colors shadow-sm">
                             View Full Resources
@@ -344,6 +312,5 @@ description: "In an era defined by global catastrophic risk, polycrisis describe
                 </div>
             </div>
         </div>
-
     </div>
 </section>

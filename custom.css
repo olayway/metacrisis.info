@@ -17049,3 +17049,9 @@ h1,h2,h3,h4,h5,h6 {
         --tw-ring-color: rgb(100 116 139/var(--tw-ring-opacity,1))
     }
 }
+
+/* MY CHANGES */
+
+body {
+  @apply bg-eclipse-dark text-stone-200 antialiased font-serif selection:bg-amber-900 selection:text-white
+}

@@ -5,6 +5,10 @@
   "authorLogo": "https://lifeitself.org/assets/site/life-itself-logo.svg",
   "authorUrl": "https://lifeitself.org/",
   "analytics": "G-CN5D9D57PC",
+  "theme": {
+    "defaultMode": "dark",
+    "showModeSwith": false,
+  },
   "nav": {
     "logo": "/assets/metacrisis-logo.jpg",
     "title": "Metacrisis",

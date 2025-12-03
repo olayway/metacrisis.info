@@ -5,7 +5,7 @@
   --eclipse-panel: #1c1917;    /* stone-900 */
   --gold-dim: #b45309;
   --gold-light: #fbbf24;
-  --color-stone-200: oklch(92.3% 0.003 48.717);
+  --text-color-brown: #E7DFD3;
 }
 
 /* BEGIN STANDARD FLOWERSHOW THEME CUSTOM */
@@ -558,10 +558,8 @@ select {
 }
 
 :root,:root[data-theme=light] {
-    /* --color-foreground: var(--color-l-foreground); */
-    --color-foreground: var(--color-d-foreground);
-    /* --color-background: var(--color-l-background); */
-    --color-background: var(--color-d-background);
+    --color-foreground: var(--color-l-foreground);
+    --color-background: var(--color-l-background);
     --color-accent: var(--color-l-accent);
     --color-foreground-50: oklch(from var(--color-foreground) 0.9 c h);
     --color-foreground-100: oklch(from var(--color-foreground) 0.825 c h);
@@ -605,7 +603,8 @@ html {
 
 body {
     margin: 0;
-    color: var(--color-foreground-600);
+    /* color: var(--color-foreground-600); */
+    color: var(--text-color-brown)  ; /* CHANGED */
     background-color: var(--color-background)
 }
 

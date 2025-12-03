@@ -11,7 +11,7 @@ description:
     Download the Paper (PDF) →
 </a>
 
-<img src="/assets/from-polycrisis-to-metacrisis-cover.jpg" class="max-w-sm mx-auto" alt="From Polycrisis to Metacrisis Paper cover" />
+![[/assets/from-polycrisis-to-metacrisis-cover.jpg|400]]
 
 ## Synopsis
 

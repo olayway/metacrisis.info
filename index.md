@@ -37,7 +37,7 @@ layout: plain
 </script>
 
 <!-- I. Hero Section -->
-<header class="relative w-full min-h-screen flex items-center justify-center hero-bg overflow-hidden py-20">
+<header class="relative w-full h-[calc(100vh-4rem)] flex items-center justify-center hero-bg overflow-hidden py-20">
   <!-- Dark Overlay -->
   <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-eclipse-dark"></div>
   <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">

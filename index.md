@@ -231,7 +231,7 @@ layout: plain
       <p class="text-lg text-stone-400 mb-6">
           The crisis has roots in the deeply embedded structures of ideas and beliefs that shape our institutions.
       </p>
-      <a id="paper" href="#" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
+      <a id="paper" href="/paper" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
           Read White Paper
       </a>
   </div>

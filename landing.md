@@ -120,19 +120,19 @@ layout: plain
   <h3 class="font-sans text-lg text-amber-500 tracking-wide uppercase font-semibold">Why treating symptoms is not enough</h3>  
   <div class="prose prose-lg prose-invert text-stone-300 font-serif leading-loose">
       <p>
-          Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
+        Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
       </p>
       <p>
-          But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
+        But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
       </p>
   </div>
   <div class="mt-8 pt-8 border-t border-stone-800">
-      <a href="#paper" class="group inline-flex items-center gap-3 text-white font-sans font-medium hover:text-amber-400 transition-colors">
-          <span class="w-12 h-12 rounded-full border border-stone-600 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">
-              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-          </span>
-          <span>Read the White Paper</span>
-      </a>
+    <a href="#paper" class="group inline-flex items-center gap-3 text-white font-sans font-medium hover:text-amber-400 transition-colors">
+    <span class="w-12 h-12 rounded-full border border-stone-600 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+    </span>
+    <span>Read the White Paper</span>
+    </a>
   </div>
   </div>
   <!-- Graphic / At a Glance Card -->
@@ -140,38 +140,38 @@ layout: plain
   <div class="absolute inset-0 bg-amber-600/10 blur-3xl rounded-full"></div>
   <!-- At a glance card -->
   <div class="relative bg-black/40 border border-stone-800 rounded-2xl p-6 sm:p-8 shadow-2xl backdrop-blur-sm">
-      <h2 class="font-display text-lg sm:text-xl font-bold text-white mb-6 border-b border-stone-800 pb-4">
-          Polycrisis and Metacrisis <span class="text-stone-500 italic font-normal block sm:inline">at a glance</span>
-      </h2>
-      <div class="space-y-4 text-sm">
-          <!-- Item 1 -->
-          <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
-              <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
-                  Polycrisis
-              </p>
-              <p class="text-stone-300 font-serif leading-relaxed">
-                  Entanglement of multiple, escalating crises and their cascading interactions.
-              </p>
-          </div>
-          <!-- Item 2 -->
-          <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
-              <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
-                  Metacrisis
-              </p>
-              <p class="text-stone-300 font-serif leading-relaxed">
-                  Multi-systemic breakdown emerging from the foundational views, values, and institutional logics of modern culture.
-              </p>
-          </div>
-          <!-- Item 3 -->
-          <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
-              <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
-                  Why this matters
-              </p>
-              <p class="text-stone-300 font-serif leading-relaxed">
-                  Just as symptoms point to an underlying illness, polycrisis points to metacrisis. Diagnosis is a precondition for wise response.
-              </p>
-          </div>
-      </div>
+    <h2 class="font-display text-lg sm:text-xl font-bold text-white mb-6 border-b border-stone-800 pb-4">
+        Polycrisis and Metacrisis <span class="text-stone-500 italic font-normal block sm:inline">at a glance</span>
+    </h2>
+    <div class="space-y-4 text-sm">
+    <!-- Item 1 -->
+    <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
+        <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
+            Polycrisis
+        </p>
+        <p class="text-stone-300 font-serif leading-relaxed">
+            Entanglement of multiple, escalating crises and their cascading interactions.
+        </p>
+    </div>
+    <!-- Item 2 -->
+    <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
+        <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
+            Metacrisis
+        </p>
+        <p class="text-stone-300 font-serif leading-relaxed">
+            Multi-systemic breakdown emerging from the foundational views, values, and institutional logics of modern culture.
+        </p>
+    </div>
+    <!-- Item 3 -->
+    <div class="border border-stone-800 bg-stone-900/50 rounded-xl p-4 hover:border-amber-500/30 transition-all duration-300">
+        <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
+            Why this matters
+        </p>
+        <p class="text-stone-300 font-serif leading-relaxed">
+            Just as symptoms point to an underlying illness, polycrisis points to metacrisis. Diagnosis is a precondition for wise response.
+        </p>
+    </div>
+    </div>
   </div>
   </div>
   </div>

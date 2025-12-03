@@ -7,25 +7,25 @@ layout: plain
 <style>
   /* Custom Utilities for Dark Mode */
   .glass-panel {
-  background: rgba(28, 25, 23, 0.7);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(251, 191, 36, 0.1);
+    background: rgba(28, 25, 23, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(251, 191, 36, 0.1);
   }
   .hero-bg {
-  background-image: url('https://images.unsplash.com/photo-1532978873245-f938d6418386?q=80&w=2070&auto=format&fit=crop'); 
-  /* Alternate darker image option: https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=2074&auto=format&fit=crop */
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Parallax effect */
+    background-image: url('https://images.unsplash.com/photo-1532978873245-f938d6418386?q=80&w=2070&auto=format&fit=crop'); 
+    /* Alternate darker image option: https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=2074&auto=format&fit=crop */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Parallax effect */
   }
   .text-glow {
-  text-shadow: 0 0 30px rgba(251, 191, 36, 0.15);
+    text-shadow: 0 0 30px rgba(251, 191, 36, 0.15);
   }
   /* Share button hover effect */
-  .share-btn:hover {
-  color: #b45309;
-  transform: translateY(-1px);
+    .share-btn:hover {
+    color: #b45309;
+    transform: translateY(-1px);
   }
 </style>
 
@@ -47,7 +47,7 @@ layout: plain
   <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
     <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
   </h1>
-  <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 font-serif mb-12 space-y-4">
+  <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 mb-12 space-y-4">
   <p>
       In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.
   </p>
@@ -60,10 +60,10 @@ layout: plain
   </div>
   <!-- Hero Buttons -->
   <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-  <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-full bg-stone-200 text-stone-900 font-sans font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
+  <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-sm bg-stone-200 text-stone-900 font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
       Read short introduction
   </a>
-  <a href="#paper" class="w-full sm:w-auto px-8 py-3 rounded-full border border-stone-600 text-stone-300 font-sans font-semibold hover:border-amber-500 hover:text-amber-400 transition-colors duration-300 backdrop-blur-sm bg-black/20">
+    <a href="/paper" class="w-full sm:w-auto px-8 py-3 rounded-sm border border-stone-600 text-stone-300 font-semibold hover:border-amber-500 hover:text-amber-400 transition-colors duration-300 backdrop-blur-sm bg-black/20">
       Read the paper
   </a>
   </div>
@@ -74,7 +74,7 @@ layout: plain
   <!-- Footer Text (Absolute Positioned at Bottom) -->
   <div class="absolute bottom-6 w-full text-center z-20 px-4">
   <p class="text-[10px] md:text-xs text-stone-500 font-sans uppercase tracking-widest opacity-60">
-  Backed by Life Itself Collective & part of the Second Renaissance Initiative
+  Backed by <a href="https://lifeitself.org/">Life Itself Collective</a> & part of the <a href="https://secondrenaissanc.net/">Second Renaissance Initiative</a>
   </p>
   </div>
 </header>
@@ -113,7 +113,7 @@ layout: plain
   <div class="max-w-6xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
   <div class="space-y-6">
   <h2 class="font-display text-4xl md:text-5xl font-bold text-white mb-6">Introduction</h2>
-  <div class="prose prose-lg prose-invert text-stone-300 font-serif leading-loose">
+  <div class="prose prose-lg prose-invert text-stone-300 leading-loose">
       <p>
         Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
       </p>
@@ -122,7 +122,7 @@ layout: plain
       </p>
   </div>
   <div class="mt-8 pt-8 border-t border-stone-800">
-    <a href="#paper" class="group inline-flex items-center gap-3 text-white font-sans font-medium hover:text-amber-400 transition-colors">
+    <a href="/paper" class="group inline-flex items-center gap-3 text-white font-sans font-medium hover:text-amber-400 transition-colors">
     <span class="w-12 h-12 rounded-full border border-stone-600 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
     </span>
@@ -144,7 +144,7 @@ layout: plain
         <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
             Polycrisis
         </p>
-        <p class="text-stone-300 font-serif leading-relaxed">
+        <p class="text-stone-300 leading-relaxed">
             Entanglement of multiple, escalating crises and their cascading interactions.
         </p>
     </div>
@@ -153,7 +153,7 @@ layout: plain
         <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
             Metacrisis
         </p>
-        <p class="text-stone-300 font-serif leading-relaxed">
+        <p class="text-stone-300 leading-relaxed">
             Multi-systemic breakdown emerging from the foundational views, values, and institutional logics of modern culture.
         </p>
     </div>
@@ -162,7 +162,7 @@ layout: plain
         <p class="text-[10px] font-sans font-bold uppercase tracking-[0.2em] text-amber-600 mb-2">
             Why this matters
         </p>
-        <p class="text-stone-300 font-serif leading-relaxed">
+        <p class="text-stone-300 leading-relaxed">
             Just as symptoms point to an underlying illness, polycrisis points to metacrisis. Diagnosis is a precondition for wise response.
         </p>
     </div>

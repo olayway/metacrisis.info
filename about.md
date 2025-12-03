@@ -4,7 +4,7 @@ title: The Metacrisis Introduction Project
 
 [See the full paper &raquo;](paper)
 
-Metacrisis.info is a collaborative project of Life Itself Research and a small group of collaborators. It is part of the broader [Second Renaissance initiative](https://secondrenaissance.net/) and its conceptual model. Our aim is to enable people to **see** the metacrisis behind the surface crises: ecological, existential and political.
+Metacrisis.info is a collaborative project led by [Life Itself Research](https://lifeitself.org/research) and a small group of researchers. It is part of the broader [Second Renaissance initiative](https://secondrenaissance.net/) and its conceptual model. Our aim is to enable people to **see** the metacrisis behind the surface crises: ecological, existential and political.
 
 This site exists to provide a simple, grounded introduction to the concept of *metacrisis* and to show how it helps make sense of the unprecedented challenges now unfolding across ecological, technological, economic, and geopolitical systems. Many people encounter “polycrisis” or other framings. Our view is that metacrisis offers a clear, accessible way of understanding not only *what* is happening but *why*.
 

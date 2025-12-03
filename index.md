@@ -111,10 +111,8 @@ layout: plain
 <!-- III. Diagnosis Section (Dark Stone Background) -->
 <section class="py-24 bg-stone-900 border-t border-white/5">
   <div class="max-w-6xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-  <!-- Content -->
   <div class="space-y-6">
-  <h2 class="font-display text-4xl md:text-5xl font-bold text-white mb-6">Diagnosis First</h2>
-  <h3 class="font-sans text-lg text-amber-500 tracking-wide uppercase font-semibold">Why treating symptoms is not enough</h3>  
+  <h2 class="font-display text-4xl md:text-5xl font-bold text-white mb-6">Introduction</h2>
   <div class="prose prose-lg prose-invert text-stone-300 font-serif leading-loose">
       <p>
         Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
@@ -283,30 +281,5 @@ layout: plain
       </div>
   </div>
   </div>
-  <!-- Other Voices (Dark Theme) -->
-  <div class="border-t border-stone-800 pt-16 mt-16">
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
-      <div class="md:col-span-1">
-          <h3 class="font-display text-2xl font-bold text-stone-200 mb-2">Exploring Further</h3>
-          <p class="text-sm text-stone-500 font-sans tracking-wide uppercase">Voices & Perspectives</p>
-      </div>
-      <div class="md:col-span-2 prose prose-invert prose-stone text-stone-400 font-serif">
-          <p class="lead text-xl italic text-stone-300">
-              Is there an alternative to the worldview of separateness?
-          </p>
-          <p>
-              Highly influential in this regard is the work of <strong>Iain McGilchrist</strong>, who suggests that these two modes of attending to reality arise naturally from the brain’s specialised, divided hemispheres. The left hemisphere’s ability to model a world in discrete parts has allowed modern humans to manipulate the world with extraordinary effectiveness.
-          </p>
-          <p>
-              But, McGilchrist warns, this view by itself is fatally deficient. It produces destruction in a world that is truly complex, dynamic and relational—a reality more faithfully represented by the right hemisphere.
-          </p>
-          <div class="mt-8 flex gap-4 not-prose">
-              <a href="#resources" class="inline-flex items-center px-6 py-3 border border-stone-700 text-sm font-bold text-stone-300 rounded hover:bg-stone-800 hover:border-amber-500 transition-colors shadow-sm">
-                  View Full Resources
-              </a>
-          </div>
-      </div>
-  </div>
-  </div>
-  </div>
+</div>
 </section>

@@ -547,8 +547,10 @@ select {
     --line-height-normal: 1.5;
     --line-height-relaxed: 1.625;
     --line-height-loose: 2;
-    --color-l-background: #fff;
-    --color-l-foreground: #525252;
+    /* --color-l-background: #fff;
+    --color-l-foreground: #525252; */
+    --color-l-background: var(--eclipse-dark); /* CHANGED */
+    --color-l-foreground: var(--color-stone-200); /* CHANGED */
     --color-l-accent: #232323;
     --color-d-background: var(--eclipse-dark); /* CHANGED */
     --color-d-foreground: var(--color-stone-200); /* CHANGED */

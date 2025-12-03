@@ -1,18 +1,17 @@
 ---
-title: "White Paper - From Polycrisis to Metacrisis"
+title: "From Polycrisis to Metacrisis: A Short Introduction"
 description: 
-image: /assets/from-polycrisis-to-metacrisis-cover.jpg
 ---
 
 *Rosie Bell & Rufus Pollock -- Life Itself Sensemaking Studio*
 
 *This is the third whitepaper in the Second Renaissance series. We deeply appreciate the support and input of Commonweal. Thanks also to members of Life Itself Research for their comments and review on early drafts, and the scholars of the wider sensemaking community whose foundational work on metacrisis informs this synthesis.*
 
-<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
-    Download the White Paper →
+<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-semibold py-6 px-8 transition-all shadow-lg tracking-wide uppercase text-s no-underline">
+    Download the Paper (PDF) →
 </a>
 
-![[/assets/from-polycrisis-to-metacrisis-cover.jpg|450]]
+<img src="/assets/from-polycrisis-to-metacrisis-cover.jpg" class="max-w-sm mx-auto" alt="From Polycrisis to Metacrisis Paper cover" />
 
 ## Synopsis
 
@@ -25,7 +24,7 @@ Within a metacrisis frame, the deep stories foundational to our modern worldview
 This essay is intended as a bite-sized introduction to the core ideas of polycrisis and metacrisis, and their relationship. We include a brief overview of leading accounts within current social philosophy, while taking responsibility for our particular interpretation (and potential simplification) of the concept. This includes a schematic sketch of metacrisis ‘layers’ which may help readers to make sense of interrelating crisis issues at different depths, and to navigate various existing accounts.
 
 
-![[/assets/from-polycrisis-to-metacrisis-diagram.png]]
+![[/assets/from-polycrisis-to-metacrisis-diagram.png|400]]
 
 *Fig 1: A simplified schematic logic of the polycrisis-metacrisis relationship.* 
 
@@ -40,7 +39,3 @@ This essay is intended as a bite-sized introduction to the core ideas of polycri
 ### Video Introduction
 
 [![Watch the video](https://img.youtube.com/vi/Zz6ksQsgTvI/default.jpg)](https://www.youtube.com/watch?v=Zz6ksQsgTvI)
-
-<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
-    Download the White Paper →
-</a>

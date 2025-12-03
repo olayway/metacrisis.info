@@ -38,44 +38,46 @@ layout: plain
 
 <!-- I. Hero Section -->
 <header class="relative w-full h-[calc(100vh-4rem)] flex items-center justify-center hero-bg overflow-hidden py-20">
-  <!-- Dark Overlay -->
+  <!-- Dark Overlay plus Eclipse-->
   <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-eclipse-dark"></div>
+  <div class="absolute -right-32 -top-40 w-[420px] h-[420px] rounded-full bg-slate-950 shadow-[0_0_80px_40px_rgba(251,191,36,0.22)] border border-amber-400/40"></div>
+  <div class="absolute -right-40 -top-52 w-[520px] h-[520px] rounded-full border border-amber-500/10"></div>
   <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">
-  <div class="inline-block mb-6 px-3 py-1 border border-amber-500/30 rounded-full bg-black/40 backdrop-blur-sm">
-  <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">An Introduction</span>
-  </div>
-  <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
-    <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
-  </h1>
-  <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 mb-12 space-y-4">
-  <p>
-      In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.
-  </p>
-  <p>
-      <span class="text-amber-500 font-semibold">Metacrisis</span> points to the common, foundational conditions that generate and sustain these crises.
-  </p>
-  <p class="text-stone-500 text-base md:text-lg">
-      This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters.
-  </p>
-  </div>
-  <!-- Hero Buttons -->
-  <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-  <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-sm bg-stone-200 text-stone-900 font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
+    <div class="inline-block mb-6 px-3 py-1 border border-amber-500/30 rounded-full bg-black/40 backdrop-blur-sm">
+      <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">An Introduction</span>
+    </div>
+    <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
+      <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
+    </h1>
+    <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 mb-12 space-y-4">
+      <p>
+          In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.
+      </p>
+      <p>
+          <span class="text-amber-500 font-semibold">Metacrisis</span> points to the common, foundational conditions that generate and sustain these crises.
+      </p>
+      <p class="text-stone-500 text-base md:text-lg">
+          This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters.
+      </p>
+    </div>
+    <!-- Hero Buttons -->
+    <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+    <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-sm bg-stone-200 text-stone-900 font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
       Read short introduction
-  </a>
+    </a>
     <a href="/paper" class="w-full sm:w-auto px-8 py-3 rounded-sm border border-stone-600 text-stone-300 font-semibold hover:border-amber-500 hover:text-amber-400 transition-colors duration-300 backdrop-blur-sm bg-black/20">
       Read the paper
-  </a>
+    </a>
   </div>
   <div class="mt-16 animate-bounce opacity-50">
-  <svg class="w-6 h-6 mx-auto text-stone-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
+    <svg class="w-6 h-6 mx-auto text-stone-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
   </div>
   </div>
   <!-- Footer Text (Absolute Positioned at Bottom) -->
   <div class="absolute bottom-6 w-full text-center z-20 px-4">
-  <p class="text-[10px] md:text-xs text-stone-500 font-sans uppercase tracking-widest opacity-60">
-  Backed by <a href="https://lifeitself.org/">Life Itself Collective</a> & part of the <a href="https://secondrenaissanc.net/">Second Renaissance Initiative</a>
-  </p>
+    <p class="text-[10px] md:text-xs text-stone-500 font-sans uppercase tracking-widest opacity-60">
+      Backed by <a href="https://lifeitself.org/">Life Itself Collective</a> & part of the <a href="https://secondrenaissanc.net/">Second Renaissance Initiative</a>
+    </p>
   </div>
 </header>
 
@@ -84,10 +86,10 @@ layout: plain
   <div class="max-w-4xl mx-auto glass-panel rounded-2xl p-8 md:p-12 shadow-2xl shadow-black">
   <div class="flex items-start justify-between">
   <div>
-      <h2 class="font-sans text-xs font-bold tracking-widest text-amber-500 uppercase mb-4">Core Definition</h2>
-      <p class="font-display text-2xl md:text-3xl lg:text-4xl leading-relaxed text-stone-100">
-          <span class="font-bold text-white">Metacrisis</span> is a multi-systemic breakdown, emerging from the foundational views, values, and institutional logics of modern culture, threatening the coherence of the current globalised civilization, and the integrity of complex living systems.
-      </p>
+    <h2 class="font-sans text-xs font-bold tracking-widest text-amber-500 uppercase mb-4">Core Definition</h2>
+    <p class="font-display text-2xl md:text-3xl lg:text-4xl leading-relaxed text-stone-100">
+      <span class="font-bold text-white">Metacrisis</span> is a multi-systemic breakdown, emerging from the foundational views, values, and institutional logics of modern culture, threatening the coherence of the current globalised civilization, and the integrity of complex living systems.
+    </p>
   </div>
   <!-- Discrete Share Buttons (LinkedIn & Facebook) -->
   <div class="hidden sm:flex flex-col gap-3 ml-6 mt-1">

@@ -118,7 +118,7 @@ layout: plain
           But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
         </p>
         <p>
-          At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular<strong class="text-white">worldviews</strong> ultimately produce and reinforce global catastrophic risk.
+          At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular <strong class="text-white">worldviews</strong> ultimately produce and reinforce global catastrophic risk.
         </p>
         <div class="not-prose mt-8">
           <a href="#paper" class="group inline-flex items-center gap-3 text-stone-200 font-sans font-medium hover:text-amber-400 transition-colors">
@@ -189,7 +189,7 @@ layout: plain
         <strong>A mechanistic view of reality</strong> <em>(the world is just a complicated machine)</em> leads us to a disenchanted relationship with nature and mistreatment of complex living systems. Meanwhile, the resulting hunger for meaning shows up in runaway consumerism.
       </p>
       <p class="leading-relaxed">
-        A <strong>worldview of fundamental separateness*</strong> casts individuals and nations as rivals for power and resources, driving global co-ordination failure, preventing the collective action needed to meaningfully reduce emissions and halt biodiversity loss, and legitimising extraction by dismissing harm to nature as ‘<strong>externality</strong>’.
+        A <strong>worldview of fundamental separateness</strong> casts individuals and nations as rivals for power and resources, driving global co-ordination failure, preventing the collective action needed to meaningfully reduce emissions and halt biodiversity loss, and legitimising extraction by dismissing harm to nature as ‘<strong>externality</strong>’.
       </p>
       <p class="leading-relaxed">
         A related story of <strong>dominance over others and nature</strong> positions humanity alone at the top of a pyramid of power, rather than within an interdependent web of life; erasing the truth that harming nature is harming ourselves.
@@ -240,9 +240,9 @@ layout: plain
 
 <!-- V. Cultural Paradigms Intro (Dark Stone) -->
 <section class="py-20 bg-stone-900 border-t border-stone-800">
-  <div class="max-w-3xl mx-auto px-6 text-center space-y-6 text-lg text-stone-400">
-    <span class="font-sans text-base font-semibold tracking-[0.2em] text-amber-500 uppercase block">The foundations of a civilization</span>
-    <h2 class="text-3xl md:text-4xl text-stone-100">Cultural Paradigms</h2>
+  <div class="text-left max-w-3xl mx-auto px-6 space-y-6 text-xl text-stone-400">
+    <span class="text-center font-sans font-semibold tracking-[0.2em] text-amber-500 uppercase block text-lg">The foundations of a civilization</span>
+    <h2 class="text-3xl md:text-5xl text-stone-100 text-center">Cultural Paradigms</h2>
     <p class="leading-relaxed">
       Fundamental to all cultures are deeply embedded structures of ideas, that shape and maintain societal norms and behaviours. These structures of belief are so deeply embedded that they don’t even appear to us like beliefs at all &ndash; they’re simply the way things are. They act as a blueprint for the choices we make as societies -- what we build, what we destroy, what we think is real, what we treat as unimportant. What we imagine ourselves to be, and how we treat each other and our world.
     </p>
@@ -264,7 +264,7 @@ layout: plain
         <span class="font-sans text-xs font-bold tracking-widest text-amber-600 uppercase mb-2 block">Deep Dive</span>
         <h2 class="text-3xl md:text-4xl text-white mb-6">The Cultural Paradigm of Modernity</h2>
         <p class="text-lg text-stone-400 mb-6">
-          The crisis has roots in the deeply embedded structures of ideas and beliefs that shape our institutions.
+          The crises we face have roots in the deeply embedded structures of ideas and beliefs that shape our societies.
         </p>
         <a id="paper" href="#" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
           Read White Paper

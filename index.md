@@ -85,7 +85,7 @@ layout: plain
     <div class="lg:col-span-1 bg-[#E0D7D2] text-stone-900 p-8 rounded shadow-lg shadow-black/20">
       <h2 class="text-4xl md:text-5xl text-stone-800 mb-6">Definition</h2> 
       <p class="text-xl md:text-2xl leading-relaxed text-stone-800 mb-6">
-        <span class="font-bold">Metacrisis</span> is a multi-systemic breakdown, emerging from the foundational views, values, and institutional logics of modern culture, threatening the coherence of the current globalised civilization, and the integrity of complex living systems.
+        <span class="font-bold">Metacrisis</span>: a multi-systemic breakdown, emerging from the foundational views, values, and institutional logics of modern culture, threatening the coherence of the current globalised civilization, and the integrity of complex living systems.
       </p>
       <!-- Discrete Share Buttons -->
       <div class="flex gap-4 mt-2 border-t border-stone-400/30 pt-4">
@@ -115,7 +115,7 @@ layout: plain
           Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
         </p>
         <p>
-          But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
+          But this framing doesn't reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the foundational conditions that generate our manifest systemic failures. <em>Much as symptoms signal an underlying illness, polycrisis points to metacrisis.</em> And treating symptoms alone doesn’t lead to recovery.
         </p>
         <p>
           At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular <strong class="text-white">worldviews</strong> ultimately produce and reinforce global catastrophic risk.

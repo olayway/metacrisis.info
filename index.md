@@ -266,9 +266,6 @@ layout: plain
         <p class="text-lg text-stone-400 mb-6">
           The crisis has roots in the deeply embedded structures of ideas and beliefs that shape our institutions.
         </p>
-        <p class="text-lg text-stone-400 mb-6">
-          The cultural paradigm that has come to be known as 'modernity' was influenced by the European Enlightenment, drawing in turn upon classical and Middle Eastern intellectual traditions. The tools and innovations that transformed material life during the ensuing industrial era further reshaped dominant worldviews and value systems. These structures of thought are highly complex and interrelated, but it can help to simplify them into six ideological 'clusters'.
-        </p>
         <a id="paper" href="#" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
           Read White Paper
         </a>

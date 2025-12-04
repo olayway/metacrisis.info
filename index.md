@@ -83,8 +83,8 @@ layout: plain
   <div class="max-w-6xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
     <!-- LEFT COLUMN (1/3): Definition (Paper Color Background) -->
     <div class="lg:col-span-1 bg-[#E0D7D2] text-stone-900 p-8 rounded shadow-lg shadow-black/20">
-      <h2 class="text-[10px] font-bold tracking-widest text-stone-500 uppercase mb-4 font-sans">Definition</h2>
-      <p class="text-xl md:text-2xl leading-relaxed text-stone-900 mb-6">
+      <h2 class="text-4xl md:text-5xl text-stone-800 mb-6">Definition</h2> 
+      <p class="text-xl md:text-2xl leading-relaxed text-stone-800 mb-6">
         <span class="font-bold">Metacrisis</span> is a multi-systemic breakdown, emerging from the foundational views, values, and institutional logics of modern culture, threatening the coherence of the current globalised civilization, and the integrity of complex living systems.
       </p>
       <!-- Discrete Share Buttons -->
@@ -109,7 +109,7 @@ layout: plain
     </div>
     <!-- RIGHT COLUMN (2/3): Introduction (Dark Background) -->
     <div class="lg:col-span-2 space-y-6 pt-6 lg:pt-0">
-      <h2 class="text-4xl md:text-5xl font-bold text-stone-200 mb-6">Introduction</h2> 
+      <h2 class="text-4xl md:text-5xl text-stone-200 mb-6">Introduction</h2> 
       <div class="prose prose-xl prose-invert prose-stone font-serif max-w-none leading-loose text-stone-300 space-y-8">
         <p>
           Global crises are proliferating. Amid ecological destruction, economic fragility, and escalating AI, the term <strong class="text-white">polycrisis</strong> has entered common use to describe this entanglement of failures.
@@ -118,7 +118,7 @@ layout: plain
           But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
         </p>
         <p>
-          At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular <strong class="text-white"worldviews</strong> ultimately produce and reinforce global catastrophic risk.
+          At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular<strong class="text-white">worldviews</strong> ultimately produce and reinforce global catastrophic risk.
         </p>
         <div class="not-prose mt-8">
           <a href="#paper" class="group inline-flex items-center gap-3 text-stone-200 font-sans font-medium hover:text-amber-400 transition-colors">
@@ -136,7 +136,7 @@ layout: plain
 <!-- III. At a Glance Section (Dark) -->
 <section class="py-20 bg-stone-900 border-t border-white/5">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-2xl sm:text-3xl font-bold text-white mb-10 text-center md:text-left">
+    <h2 class="text-2xl sm:text-3xl text-white mb-10 text-center md:text-left">
       Polycrisis and Metacrisis <span class="text-stone-500 italic font-normal">at a glance</span>
     </h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -177,7 +177,7 @@ layout: plain
   <div class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-stone-900/50 to-transparent pointer-events-none"></div>
   <div class="max-w-6xl mx-auto px-6 relative z-10">
     <div class="max-w-3xl mb-16">
-      <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">The Roots of Illness</h2>
+      <h2 class="text-4xl md:text-5xl text-white mb-6">The Roots of Illness</h2>
       <p class="text-xl text-stone-400 leading-relaxed">
         Viewed through a <span class="italic text-stone-200">polycrisis</span> lens, climate breakdown is a logistical challenge. Viewed through <span class="italic text-stone-200">metacrisis</span>, it is a symptom of how we see the world.
       </p>
@@ -226,7 +226,7 @@ layout: plain
       <!-- Section Header -->
       <div class="lg:col-span-1">
         <span class="font-sans text-xs font-bold tracking-widest text-amber-600 uppercase mb-2 block">Deep Dive</span>
-        <h2 class="text-3xl md:text-4xl font-bold text-white mb-6">The Cultural Paradigm of Modernity</h2>
+        <h2 class="text-3xl md:text-4xl text-white mb-6">The Cultural Paradigm of Modernity</h2>
         <p class="text-lg text-stone-400 mb-6">
           The crisis has roots in the deeply embedded structures of ideas and beliefs that shape our institutions.
         </p>
@@ -237,42 +237,42 @@ layout: plain
       <!-- Ideology Grid (Full Content, Dark Theme) -->
       <div class="lg:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4">
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Rationalism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Rationalism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Objectivity</span>
             All that exists is physical matter, governed by natural laws. Human reason can reveal universal truths about this external world.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Materialism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Materialism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Reductionism</span>
             The universe is a vast machine. The living world is nothing more than the sum of small separate parts.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Progress-ism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Progress-ism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Linear Growth</span>
             History is a project of continuous improvement, legitimising extraction, industrialisation, and dominance over nature.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Individualism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Individualism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Self-Interest</span>
             The rational individual is the foundation of truth. Self-interest and competition are natural organising forces.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Equality-ism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Equality-ism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Human Rights</span>
             All humans are created equal—giving rise to the idea of human rights, though realised imperfectly across empire.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="font-bold text-stone-200 mb-2 text-2xl">Secular-ism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Secular-ism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
             <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Disenchantment</span>
             Meaning is located in the human, not the divine. The idea of a living cosmos gives way to a world of inert matter.
@@ -285,7 +285,7 @@ layout: plain
       <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
         <!-- Left Column: Heading -->
         <div class="md:col-span-1">
-          <h3 class="text-2xl font-bold text-stone-200 mb-2">Defining Metacrisis</h3>
+          <h3 class="text-2xl text-stone-200 mb-2">Defining Metacrisis</h3>
           <p class="text-sm text-stone-500 font-sans tracking-wide uppercase">Prominent Voices</p>
         </div>
         <!-- Right Column: Quotes -->

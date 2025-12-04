@@ -25,7 +25,7 @@ But an emerging field of inquiry suggests that this framing doesn’t reach deep
 
 At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other complex factors, the ways in which particular **worldviews** ultimately produce and reinforce global catastrophic risk.
 
-## Overview through case study
+## A Case Study: Climate Breakdown
 
 **For example,** viewed through a **polycrisis** lens, **climate breakdown** is one escalating crisis among many, interacting with biodiversity loss, food and energy security, economic fragility, and migration. Its principal challenge is the complex task of decarbonising the global economy while maintaining stability in these adjacent systems.
 

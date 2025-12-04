@@ -108,7 +108,7 @@ layout: plain
       </div>
     </div>
     <!-- RIGHT COLUMN (2/3): Introduction (Dark Background) -->
-    <div class="lg:col-span-2 space-y-6 pt-6 lg:pt-0">
+    <div class="lg:col-span-2 space-y-6 p-8">
       <h2 class="text-4xl md:text-5xl text-stone-200 mb-6">Introduction</h2> 
       <div class="prose prose-xl prose-invert prose-stone font-serif max-w-none leading-loose text-stone-300 space-y-8">
         <p>
@@ -240,14 +240,17 @@ layout: plain
 
 <!-- V. Cultural Paradigms Intro (Dark Stone) -->
 <section class="py-20 bg-stone-900 border-t border-stone-800">
-  <div class="max-w-5xl mx-auto px-6 text-center md:text-left space-y-6">
-    <span class="font-sans text-[10px] font-semibold tracking-[0.2em] text-amber-500 uppercase block">The foundations of a civilization</span>
+  <div class="max-w-3xl mx-auto px-6 text-center space-y-6 text-lg text-stone-400">
+    <span class="font-sans text-base font-semibold tracking-[0.2em] text-amber-500 uppercase block">The foundations of a civilization</span>
     <h2 class="text-3xl md:text-4xl text-stone-100">Cultural Paradigms</h2>
-    <p class="text-lg text-stone-400 leading-relaxed">
+    <p class="leading-relaxed">
       Fundamental to all cultures are deeply embedded structures of ideas, that shape and maintain societal norms and behaviours. These structures of belief are so deeply embedded that they don’t even appear to us like beliefs at all &ndash; they’re simply the way things are. They act as a blueprint for the choices we make as societies -- what we build, what we destroy, what we think is real, what we treat as unimportant. What we imagine ourselves to be, and how we treat each other and our world.
     </p>
-    <p class="text-lg text-stone-400 leading-relaxed">
+    <p class="leading-relaxed">
       Over time, as patterns of power and ways of life evolve, these deep belief structures gradually give way to new ideas that redefine our shared reality &ndash; a new <em>cultural paradigm</em> emerges. Think, for example, of the way western societies once regarded a biblical God as the source of all knowledge and moral authority -- and contrast the way modern societies now look to science and economics to determine what’s true and how we should live.
+    </p>
+    <p class="leading-relaxed">
+      The cultural paradigm that has come to be known as 'modernity' was influenced by the European Enlightenment, drawing in turn upon classical and Middle Eastern intellectual traditions. The tools and innovations that transformed material life during the ensuing industrial era further reshaped dominant worldviews and value systems. These structures of thought are highly complex and interrelated, but it can help to simplify them into six ideological 'clusters'.
     </p>
   </div>
 </section>

@@ -73,7 +73,7 @@ layout: plain
   <!-- Footer Text (Absolute Positioned at Bottom) -->
   <div class="absolute bottom-6 w-full text-center z-20 px-4">
     <p class="text-[10px] md:text-xs text-stone-500 font-sans uppercase tracking-widest opacity-60">
-      Backed by <a href="https://lifeitself.org/">Life Itself Collective</a> & part of the <a href="https://secondrenaissanc.net/">Second Renaissance Initiative</a>
+      Backed by <a class="underline" href="https://lifeitself.org/">Life Itself Collective</a> & part of the <a class="underline" href="https://secondrenaissance.net/">Second Renaissance Initiative</a>
     </p>
   </div>
 </header>
@@ -174,10 +174,10 @@ layout: plain
 <!-- IV. The Roots Section (Light Background) -->
 <section class="py-24 bg-[#E0D7D2] text-stone-900 relative overflow-hidden">
   <div class="max-w-6xl mx-auto px-6 relative z-10">
-    <div class="max-w-4xl mx-auto mb-16 text-center md:text-left space-y-6">
-      <h2 class="text-4xl md:text-5xl text-stone-900">A Case Study: Climate Breakdown</h2>
+    <div class="max-w-3xl mx-auto mb-16 space-y-6 text-lg">
+      <h2 class="text-4xl md:text-5xl text-stone-900 text-center">Case Study: Climate Breakdown</h2>
       <p class="text-xl leading-relaxed">
-        <strong>For example,</strong> viewed through a <strong>polycrisis</strong> lens, <strong>climate breakdown</strong> is one escalating crisis among many, interacting with biodiversity loss, food and energy security, economic fragility, and migration. Its principal challenge is the complex task of decarbonising the global economy while maintaining stability in these adjacent systems.
+        Viewed through a <strong>polycrisis</strong> lens, <strong>climate breakdown</strong> is one escalating crisis among many, interacting with biodiversity loss, food and energy security, economic fragility, and migration. Its principal challenge is the complex task of decarbonising the global economy while maintaining stability in these adjacent systems.
       </p>
       <p class="text-xl leading-relaxed">
         However, <strong>metacrisis</strong> thinking suggests that we’re failing to meet this challenge because we don’t yet understand its deeper origins. As we try to fix climate breakdown while preserving the systems that created it, the problems get worse.
@@ -185,52 +185,52 @@ layout: plain
       <p class="text-xl leading-relaxed">
         Climate breakdown doesn’t begin with carbon emissions; it has roots in the fundamental ideas that constitute modern reality and the systems that express them. Among these are:
       </p>
-      <p class="text-lg leading-relaxed">
+      <p class="leading-relaxed">
         <strong>A mechanistic view of reality</strong> <em>(the world is just a complicated machine)</em> leads us to a disenchanted relationship with nature and mistreatment of complex living systems. Meanwhile, the resulting hunger for meaning shows up in runaway consumerism.
       </p>
-      <p class="text-lg leading-relaxed">
+      <p class="leading-relaxed">
         A <strong>worldview of fundamental separateness*</strong> casts individuals and nations as rivals for power and resources, driving global co-ordination failure, preventing the collective action needed to meaningfully reduce emissions and halt biodiversity loss, and legitimising extraction by dismissing harm to nature as ‘<strong>externality</strong>’.
       </p>
-      <p class="text-lg leading-relaxed">
+      <p class="leading-relaxed">
         A related story of <strong>dominance over others and nature</strong> positions humanity alone at the top of a pyramid of power, rather than within an interdependent web of life; erasing the truth that harming nature is harming ourselves.
       </p>
-      <p class="text-lg leading-relaxed">
+      <p class="leading-relaxed">
         The idea of humans as self-interested <strong>rational</strong> agents, coupled with a <strong>myth of progress</strong>, fuels market fundamentalism and an economic system fixated on endless growth and technological advancement; consuming a finite planet without restraint, and sidelining wisdom, nature and relationship as sources of human wellbeing.
       </p>
-      <div class="mt-10 italic text-stone-700 bg-white/70 border-l-4 border-amber-600 px-6 py-4 rounded-sm shadow-sm">
+      <div class="text-xl mt-10 italic text-stone-700 bg-white/70 border-l-4 border-amber-600 px-6 py-4 rounded-sm shadow-sm">
         Look closely and these fundamental ideas are implicated throughout countless other crises, from social fragmentation and declining mental health to escalating AI, economic fragility, struggling food systems and geopolitical conflict.
       </div>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       <!-- Card 1 -->
-      <div class="p-8 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-amber-700/60 transition-colors group text-stone-100">
-        <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold border border-stone-700">1</div>
-        <h3 class="text-2xl text-amber-400 mb-4 group-hover:text-amber-300 font-serif font-semibold">Mechanistic Reality</h3>
-        <p class="text-lg text-stone-200/80 leading-relaxed">
+      <div class="p-6 rounded-lg bg-white/80 border border-stone-300 hover:border-amber-700/40 transition-colors group text-stone-900 shadow-sm">
+        <div class="w-8 h-8 rounded-full bg-white border border-amber-500/50 flex items-center justify-center mb-3 text-amber-600 font-semibold text-base">1</div>
+        <h3 class="text-base text-stone-900 mb-3 font-serif font-semibold">Mechanistic Reality</h3>
+        <p class="text-lg text-stone-700 leading-relaxed">
           A view that the world is just a complicated machine. This leads to a disenchanted relationship with nature and the mistreatment of complex living systems.
         </p>
       </div>
       <!-- Card 2 -->
-      <div class="p-8 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-amber-700/60 transition-colors group text-stone-100">
-        <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold border border-stone-700">2</div>
-        <h3 class="text-2xl text-amber-400 mb-4 group-hover:text-amber-300 font-serif font-semibold">Fundamental Separateness</h3>
-        <p class="text-lg text-stone-200/80 leading-relaxed">
+      <div class="p-6 rounded-lg bg-white/80 border border-stone-300 hover:border-amber-700/40 transition-colors group text-stone-900 shadow-sm">
+        <div class="w-8 h-8 rounded-full bg-white border border-amber-500/50 flex items-center justify-center mb-3 text-amber-600 font-semibold text-base">2</div>
+        <h3 class="text-base text-stone-900 mb-3 font-serif font-semibold">Fundamental Separateness</h3>
+        <p class="text-lg text-stone-700 leading-relaxed">
           A worldview that casts individuals and nations as rivals for power, driving global coordination failure and legitimising extraction.
         </p>
       </div>
       <!-- Card 3 -->
-      <div class="p-8 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-amber-700/60 transition-colors group text-stone-100">
-        <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold border border-stone-700">3</div>
-        <h3 class="text-2xl text-amber-400 mb-4 group-hover:text-amber-300 font-serif font-semibold">Dominance Narrative</h3>
-        <p class="text-lg text-stone-200/80 leading-relaxed">
+      <div class="p-6 rounded-lg bg-white/80 border border-stone-300 hover:border-amber-700/40 transition-colors group text-stone-900 shadow-sm">
+        <div class="w-8 h-8 rounded-full bg-white border border-amber-500/50 flex items-center justify-center mb-3 text-amber-600 font-semibold text-base">3</div>
+        <h3 class="text-base text-stone-900 mb-3 font-serif font-semibold">Dominance Narrative</h3>
+        <p class="text-lg text-stone-700 leading-relaxed">
           Positions humanity alone at the top of a pyramid of power, erasing the truth that harming nature is harming ourselves.
         </p>
       </div>
       <!-- Card 4 -->
-      <div class="p-8 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-amber-700/60 transition-colors group text-stone-100">
-        <div class="w-8 h-8 rounded-full bg-stone-800 flex items-center justify-center mb-4 text-amber-500 font-bold border border-stone-700">4</div>
-        <h3 class="text-2xl text-amber-400 mb-4 group-hover:text-amber-300 font-serif font-semibold">Rational Self-Interest</h3>
-        <p class="text-lg text-stone-200/80 leading-relaxed">
+      <div class="p-6 rounded-lg bg-white/80 border border-stone-300 hover:border-amber-700/40 transition-colors group text-stone-900 shadow-sm">
+        <div class="w-8 h-8 rounded-full bg-white border border-amber-500/50 flex items-center justify-center mb-3 text-amber-600 font-semibold text-base">4</div>
+        <h3 class="text-base text-stone-900 mb-3 font-serif font-semibold">Rational Self-Interest</h3>
+        <p class="text-lg text-stone-700 leading-relaxed">
           Coupled with a myth of progress, this fuels market fundamentalism and an economy fixated on endless growth on a finite planet.
         </p>
       </div>

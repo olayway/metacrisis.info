@@ -238,7 +238,21 @@ layout: plain
   </div>
 </section>
 
-<!-- V. Cultural Paradigm Section (Dark Stone + Texture) -->
+<!-- V. Cultural Paradigms Intro (Dark Stone) -->
+<section class="py-20 bg-stone-900 border-t border-stone-800">
+  <div class="max-w-5xl mx-auto px-6 text-center md:text-left space-y-6">
+    <span class="font-sans text-[10px] font-semibold tracking-[0.2em] text-amber-500 uppercase block">The foundations of a civilization</span>
+    <h2 class="text-3xl md:text-4xl text-stone-100">Cultural Paradigms</h2>
+    <p class="text-lg text-stone-400 leading-relaxed">
+      Fundamental to all cultures are deeply embedded structures of ideas, that shape and maintain societal norms and behaviours. These structures of belief are so deeply embedded that they don’t even appear to us like beliefs at all &ndash; they’re simply the way things are. They act as a blueprint for the choices we make as societies -- what we build, what we destroy, what we think is real, what we treat as unimportant. What we imagine ourselves to be, and how we treat each other and our world.
+    </p>
+    <p class="text-lg text-stone-400 leading-relaxed">
+      Over time, as patterns of power and ways of life evolve, these deep belief structures gradually give way to new ideas that redefine our shared reality &ndash; a new <em>cultural paradigm</em> emerges. Think, for example, of the way western societies once regarded a biblical God as the source of all knowledge and moral authority -- and contrast the way modern societies now look to science and economics to determine what’s true and how we should live.
+    </p>
+  </div>
+</section>
+
+<!-- VI. Cultural Paradigm Section (Dark Stone + Texture) -->
 <section class="py-24 bg-stone-900 border-t border-stone-800">
   <div class="max-w-6xl mx-auto px-6">
     <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 mb-16">

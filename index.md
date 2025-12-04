@@ -120,6 +120,9 @@ layout: plain
         <p>
           But this framing doesn’t reach deeply enough. <strong class="text-white">Metacrisis</strong> draws our attention to the roots. Much as symptoms signal an underlying illness, polycrisis points to metacrisis. Treating symptoms alone doesn’t lead to recovery.
         </p>
+        <p>
+          At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular <strong class="text-white"worldviews</strong> ultimately produce and reinforce global catastrophic risk.
+        </p>
         <div class="not-prose mt-8">
           <a href="#paper" class="group inline-flex items-center gap-3 text-stone-200 font-sans font-medium hover:text-amber-400 transition-colors">
             <span class="w-10 h-10 rounded-full border border-stone-600 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">

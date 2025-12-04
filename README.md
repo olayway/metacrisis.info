@@ -10,5 +10,6 @@ The previous Lexicon definition of the metacrisis can be found here: https://lex
 
 ### Made with Flowershow  🌸
 
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
+This is built and deployed with [Flowershow Cloud](https://flowershow.app/) 💐
+
+For more information about Flowershow and how to customize this template, visit the [Flowershow Documentation](https://flowershow.app/docs)

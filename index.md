@@ -46,18 +46,15 @@ layout: plain
     <div class="inline-block mb-6 px-3 py-1 border border-amber-500/30 rounded-full bg-black/40 backdrop-blur-sm">
       <span class="text-amber-400 text-xs sm:text-sm font-sans tracking-widest uppercase font-semibold">An Introduction</span>
     </div>
-    <h1 class="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight text-white text-glow">
+    <h1 class="font-display text-5xl md:text-7xl lg:text-9xl mb-6 leading-tight text-white text-glow">
       <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-500 to-amber-700">Metacrisis</span>
     </h1>
     <div class="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-stone-400 mb-12 space-y-4">
       <p>
-          In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions.
-      </p>
-      <p>
-          <span class="text-amber-500 font-semibold">Metacrisis</span> points to the common, foundational conditions that generate and sustain these crises.
+        In an era defined by global catastrophic risk, <span class="text-stone-200 font-semibold">polycrisis</span> describes a collection of escalating crises and their complex interactions. <span class="text-amber-500 font-semibold">Metacrisis</span> points to the common, foundational conditions that generate and sustain these crises.
       </p>
       <p class="text-stone-500 text-base md:text-lg">
-          This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters.
+        This site offers an accessible introduction to metacrisis: what it is, how it relates to polycrisis, and why it matters.
       </p>
     </div>
     <!-- Hero Buttons -->

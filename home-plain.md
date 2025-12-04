@@ -21,7 +21,7 @@ In an era defined by global catastrophic risk, ***poly*****crisis** describes a 
 
 Global crises are proliferating. Amid ecological destruction, the decline of rules-based order, economic fragility, escalating AI and more, people are reaching for new ways to understand multi-systemic breakdown, and language to describe it. The term **polycrisis** has entered common use, naming an entanglement of crises and their cascading interactions.
 
-But an emerging field of inquiry suggests that this framing doesn’t reach deeply enough. The concept of **Metacrisis** draws our attention to the foundational conditions that generate our manifest systemic failures. M*uch as symptoms signal an underlying illness, polycrisis points to metacrisis.* And treating symptoms alone doesn’t usually lead to recovery. If we hope to prevent them from getting worse, we must ask what’s causing them.
+But an emerging field of inquiry suggests that this framing doesn’t reach deeply enough. The concept of **Metacrisis** draws our attention to the foundational conditions that generate our manifest systemic failures. *Much as symptoms signal an underlying illness, polycrisis points to metacrisis.* And treating symptoms alone doesn’t usually lead to recovery. If we hope to prevent them from getting worse, we must ask what’s causing them.
 
 At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other complex factors, the ways in which particular **worldviews** ultimately produce and reinforce global catastrophic risk.
 

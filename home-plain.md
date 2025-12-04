@@ -61,7 +61,7 @@ Highly influential in this regard is the work of Iain McGilchrist; who suggests 
 
 Fundamental to all cultures are deeply embedded structures of ideas, that shape and maintain societal norms and behaviours. These structures of belief are so deeply embedded that they don’t even appear to us like beliefs at all -- they’re simply the way things are. They act as a blueprint for the choices we make as societies -- what we build, what we destroy, what we think is real, what we treat as unimportant. What we imagine ourselves to be, and how we treat each other and our world.
 
-Over time, as patterns of power and ways of life evolve, these deep belief structures gradually give way to new ideas that redefine our shared reality -- a new *cultural paradigm* emerges*.* Think, for example, of the way western mass societies once regarded a biblical God as the source of all knowledge and moral authority -- and contrast the way modern societies now look to science and economics to determine what’s true and how we should live.
+Over time, as patterns of power and ways of life evolve, these deep belief structures gradually give way to new ideas that redefine our shared reality -- a new *cultural paradigm* emerges*. Think, for example, of the way western societies once regarded a biblical God as the source of all knowledge and moral authority -- and contrast the way modern societies now look to science and economics to determine what’s true and how we should live.
 
 ### Six ideologies of modernity: a brief guide
 
@@ -101,7 +101,7 @@ All humans are created equal -- at least in principle. Entailing expansion of ci
 
 **Secular humanism**
 
-Meaning, moral guidance and legitimacy are located in the human, not the divine, and truth in reason and evidence. The idea of a sacred, fathomless, living cosmos gives way to a disenchanted platform for human endeavour -- a world of inert matter. Politically, societies must be secular with a clear separation of church and state, of the sacred and society. Religion becomes spirituality moving from the collective to the personal sphere.
+Meaning, moral guidance and legitimacy are located in the human, not the divine, and truth in reason and evidence. The idea of a sacred, fathomless, living cosmos gives way to a disenchanted platform for human endeavour -- a world of inert matter.
 
 ## Defining metacrisis: prominent voices 
 

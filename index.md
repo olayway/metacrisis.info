@@ -263,6 +263,9 @@ layout: plain
         <p class="text-lg text-stone-400 mb-6">
           The crisis has roots in the deeply embedded structures of ideas and beliefs that shape our institutions.
         </p>
+        <p class="text-lg text-stone-400 mb-6">
+          The cultural paradigm that has come to be known as 'modernity' was influenced by the European Enlightenment, drawing in turn upon classical and Middle Eastern intellectual traditions. The tools and innovations that transformed material life during the ensuing industrial era further reshaped dominant worldviews and value systems. These structures of thought are highly complex and interrelated, but it can help to simplify them into six ideological 'clusters'.
+        </p>
         <a id="paper" href="#" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-sans font-semibold py-3 px-6 rounded-sm transition-all shadow-lg tracking-wide uppercase text-xs">
           Read White Paper
         </a>
@@ -270,45 +273,45 @@ layout: plain
       <!-- Ideology Grid (Full Content, Dark Theme) -->
       <div class="lg:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4">
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="text-stone-200 mb-2 text-2xl">Rationalism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Rationalism &amp; Empiricism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Objectivity</span>
-            All that exists is physical matter, governed by natural laws. Human reason can reveal universal truths about this external world.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">The nature of knowledge</span>
+            Human reason and observation can reveal universal truths. Knowledge comes from systematic reasoning and empirical data.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="text-stone-200 mb-2 text-2xl">Materialism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Materialism &amp; Reductionism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Reductionism</span>
-            The universe is a vast machine. The living world is nothing more than the sum of small separate parts.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">The mechanistic cosmos</span>
+            All that exists is physical matter, governed by natural laws. The universe and its living systems are basically complicated machines: the sum of separate parts, of which the smallest are most fundamental.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="text-stone-200 mb-2 text-2xl">Progress-ism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">The myth of progress</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Linear Growth</span>
-            History is a project of continuous improvement, legitimising extraction, industrialisation, and dominance over nature.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Improvement as a natural law</span>
+            Human history is a project of continuous improvement through science, technology, and will.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
           <h4 class="text-stone-200 mb-2 text-2xl">Individualism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Self-Interest</span>
-            The rational individual is the foundation of truth. Self-interest and competition are natural organising forces.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Freedom, legitimacy and competition.</span>
+            The human individual is the basis of truth, morality, and political legitimacy. Rational autonomy underpins their rights and freedom. Self-interest and competition between individuals are normative organising forces that shape progress.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
-          <h4 class="text-stone-200 mb-2 text-2xl">Equality-ism</h4>
+          <h4 class="text-stone-200 mb-2 text-2xl">Egalitarianism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Human Rights</span>
-            All humans are created equal—giving rise to the idea of human rights, though realised imperfectly across empire.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Equality and liberalism</span>
+            All humans are created equal. Along with individualism, gives rise to political liberalism and human rights. In principle, entails expanding circle of concern - but enacted very selectively across gender, class, and empire.
           </p>
         </div>
         <div class="bg-black/30 p-6 rounded-lg border border-stone-800 hover:bg-black/50 hover:border-amber-900/50 transition">
           <h4 class="text-stone-200 mb-2 text-2xl">Secular-ism</h4>
           <p class="text-lg text-stone-400 leading-relaxed">
-            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">Disenchantment</span>
-            Meaning is located in the human, not the divine. The idea of a living cosmos gives way to a world of inert matter.
+            <span class="text-amber-500 text-xs uppercase tracking-wide block mb-1">A disenchanted world</span>
+            Truth, meaning, moral guidance and legitimacy are matters of objective fact and human reason, not divine law. The idea of a sacred, fathomless or living cosmos is a fiction. The sacred is subjective and has no place in politics.
           </p>
         </div>
       </div>

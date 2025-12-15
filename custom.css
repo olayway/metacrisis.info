@@ -29,6 +29,10 @@ body {
   font-size: var(--font-size-md);
 }
 
+.site-navbar-links-container {
+  justify-content: end;
+}
+
 .page-hero-container {
   margin-top: -2rem;
   background-color: var(--color-background);
